@@ -87,3 +87,10 @@ Outro conteúdo para verificar: https://www.elemarjr.com/en/2018/02/thinking-abo
 
 Fonte: Palestra do Elemar Júnior no youtube: Práticas e Padrões de Arquitetura para Disponibilidade e Resiliência
 https://youtu.be/1VvXG42mufA
+
+
+---
+
+Vídeo sensacional sobre SOA e Business Components, mas que define mais como modelar seu sistema, e explica eventos de uma forma muito boa.
+
+https://www.infoq.com/presentations/SOA-Business-Autonomous-Components
